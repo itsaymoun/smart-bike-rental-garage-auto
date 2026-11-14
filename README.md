@@ -7,9 +7,6 @@ Software Engineering - GIU Cairo - Milestone 2
 |------|----|--------------|
 | Ahmed Ayman | 19005075 | Team leader |
 | Mamdouh Essam | 19001231 | Member |
-| Youssef Elsayed | 19008915 | Member |
-| Hamza Hadhoud | 19006872 | Member |
-| Mohamed Walied | 19009702 | Member |
 
 ## ERD
 Editable diagram: [erd.drawio](docs/erd.drawio)
