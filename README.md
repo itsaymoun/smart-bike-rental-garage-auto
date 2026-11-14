@@ -14,12 +14,19 @@ Software Engineering - GIU Cairo - Milestone 2
 | Mousa Moustafa | 19008296 | Member |
 
 ## ERD
-Editable diagram: [erd.drawio](docs/erd.drawio) | Open and edit in draw.io:
-(https://app.diagrams.net/#G1xhpmhZv5yY-y-C4Yi1NNx9AJtsWVAIYd#%7B%22pageId%22%3A%22erd%22%7D)
+**Editable diagram:** [erd.drawio](https://github.com/itsaymoun/smart-bike-rental-garage-auto/blob/main/docs/erd.drawio)
 
-![ERD](docs/erd.png)
+**Open in draw.io:** [Edit the ERD](https://app.diagrams.net/#G1xhpmhZv5yY-y-C4Yi1NNx9AJtsWVAIYd#%7B%22pageId%22%3A%22erd%22%7D)
 
-We used crow's foot notation. Every relationship has a name and a cardinality at both ends (`1`, `0..1`, `0..N`), and the legend is in the top right of the diagram. PK columns are bold and underlined, FK columns are italic, and `UQ` marks a unique column.
+**ERD image:** [erd.png](https://github.com/itsaymoun/smart-bike-rental-garage-auto/blob/main/docs/erd.png)
+
+The ERD uses Crow's Foot notation to represent relationships and cardinalities. Relationships are named, and cardinalities are shown at both ends (`1`, `0..1`, and `0..N`).
+
+The diagram uses the following conventions:
+
+- **PK:** Primary key (bold and underlined).
+- *FK:* Foreign key (italic).
+- **UQ:** Unique attribute.
 
 ## Traceability: entities to user stories
 | Entity | Justified by user stories |
