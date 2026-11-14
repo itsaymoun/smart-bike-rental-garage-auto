@@ -14,7 +14,8 @@ Software Engineering - GIU Cairo - Milestone 2
 | Mousa Moustafa | 19008296 | Member |
 
 ## ERD
-Editable diagram: [erd.drawio](docs/erd.drawio) | [Open and edit in draw.io](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fitsaymoun%2Fsmart-bike-rental-garage-auto%2Fmain%2Fdocs%2Ferd.drawio)
+Editable diagram: [erd.drawio](docs/erd.drawio) | [Open and edit in draw.io] 
+(https://app.diagrams.net/#G1xhpmhZv5yY-y-C4Yi1NNx9AJtsWVAIYd#%7B%22pageId%22%3A%22erd%22%7D)
 
 ![ERD](docs/erd.png)
 
