@@ -9,7 +9,7 @@ Software Engineering - GIU Cairo - Milestone 2
 | Mamdouh Essam | 19001231 | Member |
 
 ## ERD
-Editable diagram: [erd.drawio](docs/erd.drawio)
+Editable diagram: [erd.drawio](docs/erd.drawio) | [Open and edit in draw.io](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fitsaymoun%2Fsmart-bike-rental-garage-auto%2Fmain%2Fdocs%2Ferd.drawio)
 
 ![ERD](docs/erd.png)
 
