@@ -75,3 +75,10 @@ We used crow's foot notation. Every relationship has a name and a cardinality at
   3. `03_seed_data.sql`: sample rows for every table
 - The pricing in the seed data is an assumption for testing only: 5 EGP to unlock, 1 EGP per minute, and a minimum balance of 30 EGP to start a ride.
 - We tested the scripts on an empty database and tried to break the constraints on purpose. See [schema/README.md](schema/README.md).
+
+### Full database export
+[`database/smart_bike_rental.sql`](database/smart_bike_rental.sql) is a full export of the database (pg_dump from PostgreSQL 17): all 10 tables, constraints, indexes and the sample data, in one file.
+
+To restore it, create an empty database called `smart_bike_rental`, then either:
+- **pgAdmin:** right-click the database > Query Tool > open `smart_bike_rental.sql` > Run (F5)
+- **psql:** `psql -U postgres -d smart_bike_rental -f database/smart_bike_rental.sql`
