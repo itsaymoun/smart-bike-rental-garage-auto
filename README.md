@@ -1,4 +1,4 @@
-# Smart Bike Rental App - Garage Auto
+# Smart Bike Rental App - Last Mile
 
 Software Engineering - GIU Cairo - Milestone 2
 
@@ -6,7 +6,12 @@ Software Engineering - GIU Cairo - Milestone 2
 | Name | ID | Role in team |
 |------|----|--------------|
 | Ahmed Ayman | 19005075 | Team leader |
+| Omar Mohamed | 190035212 | Team Leader |
+| Noureldein Salah | 19008943 | Member |
+| Ahmed mohamed | 19007447 | Member |
 | Mamdouh Essam | 19001231 | Member |
+| omar hany | 19004634 | Member |
+| Mousa Moustafa | 19008296 | Member |
 
 ## ERD
 Editable diagram: [erd.drawio](docs/erd.drawio) | [Open and edit in draw.io](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fitsaymoun%2Fsmart-bike-rental-garage-auto%2Fmain%2Fdocs%2Ferd.drawio)
