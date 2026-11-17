@@ -12,6 +12,7 @@ Software Engineering - GIU Cairo - Milestone 2
 | Mamdouh Essam | 19001231 | Member |
 | omar hany | 19004634 | Member |
 | Mousa Moustafa | 19008296 | Member |
+| Mahmoud elsentawy | 19003579 | Member |
 
 ## ERD
 **Editable diagram:** [erd.drawio](https://github.com/itsaymoun/smart-bike-rental-garage-auto/blob/main/docs/erd.drawio)
